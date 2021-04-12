@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".fragment.HomeFragment">
+
+    <EditText
+        android:id="@+id/title_ET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/enter_title_placeholder" />
+
+    <TextView
+        android:id="@+id/description_TV"
+        style="@style/main_heading_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="@string/description_placeholder" />
+
+    <Button
+        android:id="@+id/addDescription_BTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/add_description_text" />
+
+    <Button
+        android:id="@+id/openAccount_BTN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/account_text" />
+
+</LinearLayout>

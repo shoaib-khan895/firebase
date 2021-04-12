@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_welcome_text">Welcome to Navigation Component</string>
+    <string name="enter_name_placeholder">Enter name</string>
+    <string name="submit_btn_text">Submit</string>
+    <string name="next_text">Next</string>
+    <string name="enter_title_placeholder">Enter Title</string>
+    <string name="description_placeholder">Description will be shown here…</string>
+    <string name="add_description_text">Add Description</string>
+    <string name="account_text">Account</string>
+    <string name="welcome_message">Welcome</string>
+    <string name="name_must_enter_info">You must enter a name</string>
+    <string name="logout_text">Logout</string>
+    <string name="enter_description_text">Enter description</string>
+    <string name="description_not_entered_info">You must enter description</string>
+    <string name="shortcut_disabled_message">Shortcuts are disabled</string>
+    <string name="shortcut_label_long">You can view your details here</string>
+    <string name="shortcut_label_short">Your Account</string>
+</resources>
